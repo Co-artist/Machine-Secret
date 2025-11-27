@@ -1,0 +1,35 @@
+{
+    "version": "1.0",
+    "levelName": "测试关卡 - 简单",
+    "components": [
+        {
+            "type": "Gear",
+            "position": [
+                5.0,
+                1.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "connections": []
+        }
+    ],
+    "startPosition": [
+        0.0,
+        2.0,
+        0.0
+    ],
+    "endPosition": [
+        10.0,
+        0.5,
+        0.0
+    ]
+}

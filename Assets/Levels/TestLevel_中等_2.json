@@ -1,0 +1,54 @@
+{
+    "version": "1.0",
+    "levelName": "测试关卡 - 中等",
+    "components": [
+        {
+            "type": "Gear",
+            "position": [
+                5.0,
+                1.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "connections": []
+        },
+        {
+            "type": "Lever",
+            "position": [
+                10.0,
+                0.5,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "connections": []
+        }
+    ],
+    "startPosition": [
+        0.0,
+        2.0,
+        0.0
+    ],
+    "endPosition": [
+        15.0,
+        0.5,
+        0.0
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "version": "1.0",
+    "levelName": "测试关卡 - 弹簧测试",
+    "components": [
+        {
+            "type": "Spring",
+            "position": [
+                4.0,
+                0.5,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "connections": []
+        },
+        {
+            "type": "Spring",
+            "position": [
+                8.0,
+                0.5,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "connections": []
+        }
+    ],
+    "startPosition": [
+        0.0,
+        2.0,
+        0.0
+    ],
+    "endPosition": [
+        12.0,
+        0.5,
+        0.0
+    ]
+}
